@@ -6,3 +6,5 @@ link del colab [aquí](https://github.com/Yes197/FisicaComputacional/blob/main/S
 link del colab [aquí](https://github.com/Yes197/FisicaComputacional/blob/main/Sesion_2/PCP_Sesión_2.ipynb)
 # Sesión 3 27/02/2021
 link del colab [aquí](https://github.com/Yes197/FisicaComputacional/blob/main/Sesion_3/PCP_Sesión_3.ipynb)
+# Sesión 4 28/02/2021
+link del colab [aquí](https://github.com/Yes197/FisicaComputacional/blob/main/Sesion_4/PCP_Sesión_4.ipynb)
