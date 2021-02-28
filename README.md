@@ -1,4 +1,4 @@
-# FisicaComputacional
+# Fisica Computacional
 Clases de Física Computacional con Python
 # Sesión 1 20/02/2021 
 link del colab [aquí](https://github.com/Yes197/FisicaComputacional/blob/main/Sesion_1/Code_Sesion_1.ipynb)
